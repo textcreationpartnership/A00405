@@ -35,8 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Sathans sowing season. By William Est minister and preacher of Gods word in Bydeford.Est, William, 1
+
+CLARISSIMO, ET OMNIBVS VERAE NOBILITATIS ORNAMENTIS HONORATISSIMO DYNAſtae, Domino Guilielmo Comiti
+1. To the Chriſtian Reader.
+
 #####Body#####
+
+1. SATHANS Sowing Seaſon.
+
+    _ The third part
+
+    _ The fourth and laſt part.
 
 **Types of content**
 
