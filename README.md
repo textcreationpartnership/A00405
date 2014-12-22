@@ -35,19 +35,8 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-
-SATHANS Sowing Seaſon.
-By William Eſt Miniſter and Preacher of Gods word in Bydeford.1: PET. 5. 8.B
-CLARISSIMO, ET OMNIBVS VERAE NOBILITATIS ORNAMENTIS HONORATISSIMO DYNAſtae, Domino Guilielmo Comiti
-1. To the Chriſtian Reader.
-
+Sathans sowing season. By William Est minister and preacher of Gods word in Bydeford.Est, William, 1
 #####Body#####
-
-1. SATHANS Sowing Seaſon.
-
-    _ The third part
-
-    _ The fourth and laſt part.
 
 **Types of content**
 
@@ -82,32 +71,28 @@ There are 38 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -115,22 +100,20 @@ There are 38 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|2||
-|2.|__body__|1||
-|3.|__closer__|2||
-|4.|__desc__|38||
-|5.|__div__|6| @__type__ (6) : title_page (1), dedication (1), to_the_Christian_reader (1), discourse (1), part (2)  •  @__n__ (2) : 3 (1), 4 (1)|
-|6.|__front__|1||
-|7.|__g__|605| @__ref__ (605) : char:EOLhyphen (533), char:punc (47), char:cmbAbbrStroke (23), char:EOLunhyphen (2)|
-|8.|__gap__|38| @__reason__ (38) : foreign (12), illegible: blotted (8), illegible: in gutter (4), illegible: faint (13), illegible: broken (1)  •  @__extent__ (26) : 1 letter (17), 1 word (1), 1+ letters (3), 2+ letters (1), 2 letters (4)|
-|9.|__head__|5| @__type__ (1) : sub (1)|
-|10.|__hi__|492||
-|11.|__l__|6||
-|12.|__lg__|1||
-|13.|__milestone__|18| @__type__ (18) : tcpmilestone (18)  •  @__unit__ (18) : unspecified (18)  •  @__n__ (18) : 4 (3), 1 (5), 2 (5), 3 (3), 5 (1), 6 (1)|
-|14.|__note__|205| @__place__ (205) : margin (205)|
-|15.|__p__|125| @__n__ (3) : 1 (1), 2 (2)|
-|16.|__pb__|100| @__facs__ (100) : tcp:19183:1 (2), tcp:19183:2 (2), tcp:19183:3 (2), tcp:19183:4 (2), tcp:19183:5 (2), tcp:19183:6 (2), tcp:19183:7 (2), tcp:19183:8 (2), tcp:19183:9 (2), tcp:19183:10 (2), tcp:19183:11 (2), tcp:19183:12 (2), tcp:19183:13 (2), tcp:19183:14 (2), tcp:19183:15 (2), tcp:19183:16 (2), tcp:19183:17 (2), tcp:19183:18 (2), tcp:19183:19 (2), tcp:19183:20 (2), tcp:19183:21 (2), tcp:19183:22 (2), tcp:19183:23 (2), tcp:19183:24 (2), tcp:19183:25 (2), tcp:19183:26 (2), tcp:19183:27 (2), tcp:19183:28 (2), tcp:19183:29 (2), tcp:19183:30 (2), tcp:19183:31 (2), tcp:19183:32 (2), tcp:19183:33 (2), tcp:19183:34 (2), tcp:19183:35 (2), tcp:19183:36 (2), tcp:19183:37 (2), tcp:19183:38 (2), tcp:19183:39 (2), tcp:19183:40 (2), tcp:19183:41 (2), tcp:19183:42 (2), tcp:19183:43 (2), tcp:19183:44 (2), tcp:19183:45 (2), tcp:19183:46 (2), tcp:19183:47 (2), tcp:19183:48 (2), tcp:19183:49 (2), tcp:19183:50 (2)  •  @__n__ (94) : 7 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1)  •  @__rendition__ (5) : simple:additions (5)|
-|17.|__q__|2||
-|18.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|19.|__signed__|1||
-|20.|__trailer__|1||
+|2.|__closer__|2||
+|3.|__desc__|38||
+|4.|__div__|6| @__type__ (6) : title_page (1), dedication (1), to_the_Christian_reader (1), discourse (1), part (2)  •  @__n__ (2) : 3 (1), 4 (1)|
+|5.|__g__|605| @__ref__ (605) : char:EOLhyphen (533), char:punc (47), char:cmbAbbrStroke (23), char:EOLunhyphen (2)|
+|6.|__gap__|38| @__reason__ (38) : foreign (12), illegible: blotted (8), illegible: in gutter (4), illegible: faint (13), illegible: broken (1)  •  @__extent__ (26) : 1 letter (17), 1 word (1), 1+ letters (3), 2+ letters (1), 2 letters (4)|
+|7.|__head__|5| @__type__ (1) : sub (1)|
+|8.|__hi__|492||
+|9.|__l__|6||
+|10.|__lg__|1||
+|11.|__milestone__|18| @__type__ (18) : tcpmilestone (18)  •  @__unit__ (18) : unspecified (18)  •  @__n__ (18) : 4 (3), 1 (5), 2 (5), 3 (3), 5 (1), 6 (1)|
+|12.|__note__|205| @__place__ (205) : margin (205)|
+|13.|__p__|125| @__n__ (3) : 1 (1), 2 (2)|
+|14.|__pb__|100| @__facs__ (100) : tcp:19183:1 (2), tcp:19183:2 (2), tcp:19183:3 (2), tcp:19183:4 (2), tcp:19183:5 (2), tcp:19183:6 (2), tcp:19183:7 (2), tcp:19183:8 (2), tcp:19183:9 (2), tcp:19183:10 (2), tcp:19183:11 (2), tcp:19183:12 (2), tcp:19183:13 (2), tcp:19183:14 (2), tcp:19183:15 (2), tcp:19183:16 (2), tcp:19183:17 (2), tcp:19183:18 (2), tcp:19183:19 (2), tcp:19183:20 (2), tcp:19183:21 (2), tcp:19183:22 (2), tcp:19183:23 (2), tcp:19183:24 (2), tcp:19183:25 (2), tcp:19183:26 (2), tcp:19183:27 (2), tcp:19183:28 (2), tcp:19183:29 (2), tcp:19183:30 (2), tcp:19183:31 (2), tcp:19183:32 (2), tcp:19183:33 (2), tcp:19183:34 (2), tcp:19183:35 (2), tcp:19183:36 (2), tcp:19183:37 (2), tcp:19183:38 (2), tcp:19183:39 (2), tcp:19183:40 (2), tcp:19183:41 (2), tcp:19183:42 (2), tcp:19183:43 (2), tcp:19183:44 (2), tcp:19183:45 (2), tcp:19183:46 (2), tcp:19183:47 (2), tcp:19183:48 (2), tcp:19183:49 (2), tcp:19183:50 (2)  •  @__n__ (94) : 7 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1)  •  @__rendition__ (5) : simple:additions (5)|
+|15.|__q__|2||
+|16.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|17.|__signed__|1||
+|18.|__trailer__|1||
